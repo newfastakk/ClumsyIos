@@ -1,0 +1,2 @@
+# ClumsyIos
+supported ios verisons
